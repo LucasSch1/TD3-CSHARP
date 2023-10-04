@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\bin\Debug\SCHNELZAUER-Lucas_TD3-Algo.exe.config
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\bin\Debug\SCHNELZAUER-Lucas_TD3-Algo.exe
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\bin\Debug\SCHNELZAUER-Lucas_TD3-Algo.pdb
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\obj\Debug\SCHNELZAUER-Lucas_TD3-Algo.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\obj\Debug\SCHNELZAUER-Lucas_TD3-Algo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\obj\Debug\SCHNELZAUER-Lucas_TD3-Algo.exe
+C:\Users\lucas\source\repos\SCHNELZAUER-Lucas_TD3-Algo\SCHNELZAUER-Lucas_TD3-Algo\obj\Debug\SCHNELZAUER-Lucas_TD3-Algo.pdb
